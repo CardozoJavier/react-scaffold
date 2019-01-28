@@ -10,7 +10,7 @@ module.exports = {
 				test : /\.(js|jsx)$/,
 				// Excluimos el directorio 'node_modules' ya que nuestras dependencias ya están escritas en ES5.
 				exclude : /node_modules/,
-				// Indicamos usar el loader babel.
+				// Indicamos usar el loader babel para estas reglas.
 				use : {
 					loader : "babel-loader"
 				}
