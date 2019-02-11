@@ -10,7 +10,7 @@
     4 - npm start
 ```
 
-#### Aplicación en React corriendo sobre:
+#### Aplicación corriendo sobre:
 * @babel/core v7.2.2
-* webpack v4.29.0
+* Webpack v4.29.0
 * React v16.7.0
