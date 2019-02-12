@@ -1,0 +1,9 @@
+{
+	"presets": [
+		// El preset 'env' nos permite trabajar con ES2015, ES2016 y ES2017.
+		"@babel/preset-env",
+		// El preset 'react' nos permite trabajar con extensiones '.jsx'
+		"@babel/preset-react"
+		// De modo que todo nuestro codigo tanto ES6/ES7 como '.jsx' será traspilado a javascript ES5.
+	]
+}
