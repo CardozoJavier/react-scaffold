@@ -5,7 +5,7 @@
   En la consola correr los siguientes comandos 
   
     1 - git clone https://github.com/CardozoJavier/react-scaffold.git
-    2 - Situarse en el directorio "react-scaffold/client"
+    2 - Situarse en el directorio "/react-scaffold/client"
     3 - npm install
     4 - npm start
 ```
